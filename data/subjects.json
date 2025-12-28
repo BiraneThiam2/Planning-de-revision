@@ -1,0 +1,53 @@
+{
+  "matières": [
+    {
+      "nom": "Intelligence Artificielle",
+      "date_examen": "2026-03-23",
+      "difficulte": 5,
+      "priorite": 5,
+      "heures_necessaires": 20
+    },
+    {
+      "nom": "Mathématiques",
+      "date_examen": "2026-03-24",
+      "difficulte": 4,
+      "priorite": 4,
+      "heures_necessaires": 15
+    },
+    {
+      "nom": "Python",
+      "date_examen": "2026-03-25",
+      "difficulte": 5,
+      "priorite": 4,
+      "heures_necessaires": 12
+    },
+    {
+      "nom": "Systemes d'exploitation",
+      "date_examen": "2026-03-26",
+      "difficulte": 3,
+      "priorite": 3,
+      "heures_necessaires": 10
+    },
+    {
+      "nom": "Tic et Outils numériques",
+      "date_examen": "2026-03-26",
+      "difficulte": 2,
+      "priorite": 2,
+      "heures_necessaires": 18
+    },
+    {
+      "nom": "Algorithmes et Structures de Données",
+      "date_examen": "2026-03-25",
+      "difficulte": 5,
+      "priorite": 3,
+      "heures_necessaires": 8
+    },
+    {
+      "nom": "Menagement",
+      "date_examen": "2026-03-28",
+      "difficulte": 5,
+      "priorite": 3,
+      "heures_necessaires": 8
+    }
+  ]
+}
